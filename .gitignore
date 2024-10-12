@@ -1,0 +1,13 @@
+# Ignorar archivos y carpetas de Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignorar archivos de configuración de Visual Studio
+.vs/
+*.csproj
+*.sln
+*.userprefs
